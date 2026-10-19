@@ -26,3 +26,9 @@ This project focuses on detecting deepfake images using deep learning and comput
 
 ## Disclaimer
 Predictions may be incorrect. Results depend on the dataset and model performance.
+
+## Project Demo
+
+### Deepfake Detection and Grad-CAM Analysis
+
+![Deepfake detection result](deepfake-result.png)
