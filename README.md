@@ -31,4 +31,4 @@ Predictions may be incorrect. Results depend on the dataset and model performanc
 
 ### Deepfake Detection and Grad-CAM Analysis
 
-![Deepfake detection result](deepfake_result.png)
+![Deepfake detection result](deepfake_result.png.png)
